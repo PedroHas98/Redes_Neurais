@@ -1,5 +1,5 @@
 # Redes_Neurais
-Link para dataset utilizado: https://www.kaggle.com/datasets/jeffersonsfilho/dadosatracoesturisticasbr?resource=download
+Link para dataset utilizado: https://www.kaggle.com/datasets/jeffersonsfilho/dadosatracoesturisticasbr?resource=download <br>
 Esse dataset contém comentários retirados da plataforma tripAdvisor de alguns atrativos túristicos.
 Possui ao todo 70.516 comentários ao todo sendo eles:
 
